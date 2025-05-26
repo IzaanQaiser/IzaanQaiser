@@ -4,8 +4,9 @@
 #### What I'm up to right now:<br>
 **Computer Engineering Student** at The **Universty of Waterloo** (September 2023 - April 2028)<br>
 **Full-Stack Developer** at **Virtek Vision** (May 2025 - August 2025)<br>
+<br>
 
-Contact Me:<br>
+#### Contact Me!<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/izaanq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaan-qaiser-linkedin" height="30" width="40" /></a>
 <a href="mailto:i2qaiser@uwaterloo.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="izaan-qaiser-email" height="30" width="40" /></a>
