@@ -7,9 +7,10 @@
 
 <div align="center">
 
-  <div style="display: inline-block; text-align: left; vertical-align: top; width: 60%;">
+  <!-- Text block -->
+  <div style="display: inline-block; vertical-align: top; width: 55%; text-align: left;">
     <h3>What I Do:</h3>
-    <ul>
+    <ul style="margin-top: -10px;">
       <li><strong>[DEGREE]:</strong> Computer Engineering Student at The University of Waterloo (Grad. Apr 2028)</li>
       <li><s><strong>[INTERNSHIP]:</strong> Data Analyst at The University of Waterloo (Jan. 2024 – Apr. 2024)</s></li>
       <li><s><strong>[INTERNSHIP]:</strong> Data Engineer at Definity (Sept. 2024 – Dec. 2024)</s></li>
@@ -18,11 +19,13 @@
     </ul>
   </div>
 
+  <!-- GIF block -->
   <div style="display: inline-block; vertical-align: top; padding-left: 20px;">
     <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="160" alt="dev gif" />
   </div>
 
 </div>
+
 
 
 <br>
