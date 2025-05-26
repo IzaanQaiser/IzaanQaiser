@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Izaan.
+<br>
+<br>
+<br>
 
 #### What I'm up to right now:<br>
 **Computer Engineering Student** at The **Universty of Waterloo** (September 2023 - April 2028)<br>
