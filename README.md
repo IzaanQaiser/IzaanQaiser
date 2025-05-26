@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Izaan.
 
-<u>**What I'm up to right now:**</u><br>
+#### What I'm up to right now:<br>
 **Computer Engineering Student** at The **Universty of Waterloo** (September 2023 - April 2028)<br>
 **Full-Stack Developer** at **Virtek Vision** (May 2025 - August 2025)<br>
 
