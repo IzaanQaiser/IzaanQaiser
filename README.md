@@ -3,10 +3,11 @@
 </div>
 <br>
 
+<br>
+
 <table align="center">
   <tr>
     <td>
-
       <div style="text-align: left;">
         <h3>What I Do:</h3>
         <p><strong>[DEGREE]:</strong> Computer Engineering Student at The University of Waterloo (Grad. Apr 2028)</p>
@@ -15,13 +16,13 @@
         <p><strong>[INTERNSHIP]:</strong> Full-Stack Developer at Virtek Vision (May 2025 – Aug. 2025)</p>
         <p><strong>[PROJECT]:</strong> Currently building <a href="https://github.com/IzaanQaiser/DumpBot">DumpBot</a></p>
       </div>
-
     </td>
     <td>
       <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="160" alt="cool dev gif" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
