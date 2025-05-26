@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Izaan.
 
-**What I'm up to right now:**<br>
-Full-Stack Developer at **Virtek Vision** (May 2025 - August 2025)<br>
-**Computer Engineering Student** at The **Universty of Waterloo** (September 2023 - April 2028);<br>
+<u>**What I'm up to right now:**</u><br>
+**Computer Engineering Student** at The **Universty of Waterloo** (September 2023 - April 2028)<br>
+**Full-Stack Developer** at **Virtek Vision** (May 2025 - August 2025)<br>
 
 Contact Me:<br>
 <p align="left">
