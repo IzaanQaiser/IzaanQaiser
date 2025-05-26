@@ -20,7 +20,7 @@
       </div>
     </td>
     <td style="padding-left: 20px; border: none;">
-      <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="160" alt="cool dev gif" />
+      <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif" height="160" alt="cool dev gif" />
     </td>
   </tr>
 </table>
