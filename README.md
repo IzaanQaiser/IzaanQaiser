@@ -5,28 +5,25 @@
 
 <br>
 
-<div align="center">
-
-  <!-- Text block -->
-  <div style="display: inline-block; vertical-align: top; width: 55%; text-align: left;">
-    <h3>What I Do:</h3>
-    <ul style="margin-top: -10px;">
-      <li><strong>[DEGREE]:</strong> Computer Engineering Student at The University of Waterloo (Grad. Apr 2028)</li>
-      <li><s><strong>[INTERNSHIP]:</strong> Data Analyst at The University of Waterloo (Jan. 2024 – Apr. 2024)</s></li>
-      <li><s><strong>[INTERNSHIP]:</strong> Data Engineer at Definity (Sept. 2024 – Dec. 2024)</s></li>
-      <li><strong>[INTERNSHIP]:</strong> Full-Stack Developer at Virtek Vision (May 2025 – Aug. 2025)</li>
-      <li><strong>[PROJECT]:</strong> Currently building <a href="https://github.com/IzaanQaiser/DumpBot">DumpBot</a></li>
-    </ul>
-  </div>
-
-  <!-- GIF block -->
-  <div style="display: inline-block; vertical-align: top; padding-left: 20px;">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="160" alt="dev gif" />
-  </div>
-
-</div>
-
-
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="vertical-align: top; border: none;">
+      <div style="text-align: left;">
+        <h3>What I Do:</h3>
+        <ul>
+          <li><strong>[DEGREE]:</strong> Computer Engineering Student at The University of Waterloo (Grad. Apr 2028)</li>
+          <li><s><strong>[INTERNSHIP]:</strong> Data Analyst at The University of Waterloo (Jan. 2024 – Apr. 2024)</s></li>
+          <li><s><strong>[INTERNSHIP]:</strong> Data Engineer at Definity (Sept. 2024 – Dec. 2024)</s></li>
+          <li><strong>[INTERNSHIP]:</strong> Full-Stack Developer at Virtek Vision (May 2025 – Aug. 2025)</li>
+          <li><strong>[PROJECT]:</strong> Currently building <a href="https://github.com/IzaanQaiser/DumpBot">DumpBot</a></li>
+        </ul>
+      </div>
+    </td>
+    <td style="padding-left: 20px; border: none;">
+      <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="160" alt="cool dev gif" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
