@@ -5,9 +5,9 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td style="vertical-align: top;">
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="vertical-align: top; border: none;">
       <div style="text-align: left;">
         <h3>What I Do:</h3>
         <ul>
@@ -19,11 +19,12 @@
         </ul>
       </div>
     </td>
-    <td style="padding-left: 20px;">
+    <td style="padding-left: 20px; border: none;">
       <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="160" alt="cool dev gif" />
     </td>
   </tr>
 </table>
+
 <br>
 
 <div align="center">
