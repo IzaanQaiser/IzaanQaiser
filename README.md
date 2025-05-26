@@ -1,4 +1,6 @@
+<div align="center">
 ### Hi there 👋 I'm Izaan.
+</div>
 <br>
 
 #### What I'm up to right now:<br>
