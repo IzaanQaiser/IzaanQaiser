@@ -3,9 +3,11 @@
 </div>
 <br>
 
-### What I'm up to right now:<br>
-- **Computer Engineering Student** at The **Universty of Waterloo** (Grad. Apr 2028)<br>
-- **Full-Stack Developer** at **Virtek Vision** (May 2025 - August 2025)<br>
+### What I do:<br>
+- **Computer Engineering Student** at **The Universty of Waterloo** (Grad. Apr 2028)<br>
+- ~~**Data Analyst** at **The University of Waterloo** (Jan. 2024 - Apr. 2024)<br>
+- ~~**Data Engineer** at **definity** (Sept. 2024 - Dec. 2024)<br>
+- **Full-Stack Developer** at **Virtek Vision** (May 2025 - Aug. 2025)<br>
 - Currently building [DumpBot](https://github.com/IzaanQaiser/DumpBot)
 <br>
 
