@@ -3,12 +3,19 @@
 </div>
 <br>
 
-### What I do:<br>
-- **[DEGREE]:** **Computer Engineering Student** at **The Universty of Waterloo** (Grad. Apr 2028)<br>
-- ~~**[INTERNSHIP]:** **Data Analyst** at **The University of Waterloo** (Jan. 2024 - Apr. 2024)~~<br>
-- ~~**[INTERNSHIP]:** **Data Engineer** at **definity** (Sept. 2024 - Dec. 2024)~~<br>
-- **[INTERNSHIP]:** **Full-Stack Developer** at **Virtek Vision** (May 2025 - Aug. 2025)<br>
-- **[PROJECT]:** Currently building [DumpBot](https://github.com/IzaanQaiser/DumpBot)
+<div align="center">
+
+<h3>What I Do:</h3>
+
+<ul style="list-style-position: inside; text-align: left; display: inline-block;">
+  <li><strong>[DEGREE]:</strong> <strong>Computer Engineering Student</strong> at <strong>The University of Waterloo</strong> (Grad. Apr 2028)</li>
+  <li><s><strong>[INTERNSHIP]:</strong> Data Analyst at The University of Waterloo (Jan. 2024 – Apr. 2024)</s></li>
+  <li><s><strong>[INTERNSHIP]:</strong> Data Engineer at Definity (Sept. 2024 – Dec. 2024)</s></li>
+  <li><strong>[INTERNSHIP]:</strong> Full-Stack Developer at Virtek Vision (May 2025 – Aug. 2025)</li>
+  <li><strong>[PROJECT]:</strong> Currently building <a href="https://github.com/IzaanQaiser/DumpBot">DumpBot</a></li>
+</ul>
+
+</div>
 <br>
 
 <div align="center">
@@ -37,11 +44,24 @@
 
 <br>
 
-### Contact Me!<br>
-<p align="left">
-<a href="https://www.linkedin.com/in/izaanq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaan-qaiser-linkedin" height="30" width="40" /></a>
-<a href="mailto:i2qaiser@uwaterloo.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="izaan-qaiser-email" height="30" width="40" /></a>
-<a href="https://www.instagram.com/izaan.qaiser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izaan-qaiser-instagram" height="30" width="40" /></a>
+<div align="center">
+
+<h3>Contact Me!</h3>
+
+<p>
+  <a href="https://www.linkedin.com/in/izaanq/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:i2qaiser@uwaterloo.ca" target="blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="Email" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/izaan.qaiser/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
+
+</div>
+
 
 
 
