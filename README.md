@@ -7,7 +7,7 @@ Full-Stack Developer at **Virtek Vision** (May 2025 - August 2025)<br>
 Contact Me:<br>
 <p align="left">
 <a href="https://www.linkedin.com/in/izaanq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="izaan-qaiser-linkedin" height="30" width="40" /></a>
-<a href="mailto:izaanqaiser05@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw25tyKXZezdWKlWErmd3aGf&ust=1748307948618000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDvoOT4v40DFQAAAAAdAAAAABAE" alt="izaan-qaiser-email" height="30" width="40" /></a>
+<a href="mailto:i2qaiser@uwaterloo.ca" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="izaan-qaiser-email" height="30" width="40" /></a>
 <a href="https://www.instagram.com/izaan.qaiser/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="izaan-qaiser-instagram" height="30" width="40" /></a>
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
