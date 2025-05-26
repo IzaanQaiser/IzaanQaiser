@@ -4,11 +4,11 @@
 <br>
 
 ### What I do:<br>
-- [DEGREE] **Computer Engineering Student** at **The Universty of Waterloo** (Grad. Apr 2028)<br>
-- ~~[INTERNSHIP] **Data Analyst** at **The University of Waterloo** (Jan. 2024 - Apr. 2024)~~<br>
-- ~~[INTERNSHIP] **Data Engineer** at **definity** (Sept. 2024 - Dec. 2024)~~<br>
-- [INTERNSHIP] **Full-Stack Developer** at **Virtek Vision** (May 2025 - Aug. 2025)<br>
-- [PROJECT] Currently building [DumpBot](https://github.com/IzaanQaiser/DumpBot)
+- **[DEGREE]:** **Computer Engineering Student** at **The Universty of Waterloo** (Grad. Apr 2028)<br>
+- ~~**[INTERNSHIP]:** **Data Analyst** at **The University of Waterloo** (Jan. 2024 - Apr. 2024)~~<br>
+- ~~**[INTERNSHIP]:** **Data Engineer** at **definity** (Sept. 2024 - Dec. 2024)~~<br>
+- **[INTERNSHIP]:** **Full-Stack Developer** at **Virtek Vision** (May 2025 - Aug. 2025)<br>
+- **[PROJECT]:** Currently building [DumpBot](https://github.com/IzaanQaiser/DumpBot)
 <br>
 
 <div align="center">
