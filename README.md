@@ -5,8 +5,8 @@
 
 <br>
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
+<table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
     <td style="vertical-align: top; border: none;">
       <div style="text-align: left;">
         <h3>What I Do:</h3>
@@ -19,11 +19,12 @@
         </ul>
       </div>
     </td>
-    <td style="padding-left: 20px; border: none;">
-      <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif" height="160" alt="cool dev gif" />
+    <td style="padding-left: 20px; vertical-align: top; border: none;">
+      <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif?raw=true" height="160" alt="dev gif" />
     </td>
   </tr>
 </table>
+
 
 <br>
 
