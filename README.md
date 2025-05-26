@@ -1,11 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Izaan.
 
-#### I'm Izaan Qaiser, a 2nd Year Computer Engineering Student at the University of Waterloo.
-#### Currently, I am a Full-Stack Develop at Virtek Vision.
-#### My Goal: Build things that make the world a better place.
-
-Full-Stack Developer at [Virtek Vision](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
+**What I'm up to right now:**
+Full-Stack Developer at [Virtek Vision] (May 2025 - August 2025)<br>
+Computer Engineering Student at The Universty of Waterloo (September 2023 - April 2028);<br>
 
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **Laravel Community**
