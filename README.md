@@ -1,7 +1,7 @@
-<div align="center">
-### Hi there 👋 I'm Izaan.
+<<div align="center">
+  <h3>Hi there 👋 I'm Izaan.</h3>
 </div>
-<br>
+
 
 #### What I'm up to right now:<br>
 **Computer Engineering Student** at The **Universty of Waterloo** (September 2023 - April 2028)<br>
