@@ -21,6 +21,17 @@
     </td>
     <td style="padding-left: 20px; vertical-align: top; border: none;">
       <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif?raw=true" height="160" alt="dev gif" />
+        <p>
+            <a href="https://www.linkedin.com/in/izaanq/" target="blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+            </a>
+            <a href="mailto:i2qaiser@uwaterloo.ca" target="blank">
+                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="Email" height="30" width="40" />
+            </a>
+            <a href="https://www.instagram.com/izaan.qaiser/" target="blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+            </a>
+        </p>
     </td>
   </tr>
 </table>
@@ -54,23 +65,11 @@
 
 <br>
 
-<div align="center">
 
 <h3>Contact Me!</h3>
 
-<p>
-  <a href="https://www.linkedin.com/in/izaanq/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:i2qaiser@uwaterloo.ca" target="blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/izaan.qaiser/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
 
-</div>
+
 
 
 
