@@ -18,7 +18,6 @@
           <li><strong>[PROJECT]:</strong> Currently building <a href="https://github.com/IzaanQaiser/DumpBot">DumpBot</a></li>
         </ul>
       </div>
-      <br>
 
 <div align="center">
   <h3>My Tools:</h3>
