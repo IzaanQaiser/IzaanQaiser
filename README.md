@@ -45,6 +45,8 @@
     </td>
     <td style="padding-left: 20px; vertical-align: top; border: none;">
     <br>
+    <br>
+    <br>
       <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif?raw=true" height="150" alt="dev gif" />
         <div align="center">
             <h3>Contact Me!</h3>
