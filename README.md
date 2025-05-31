@@ -49,6 +49,7 @@
     <br>
       <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif?raw=true" height="150" alt="dev gif" />
         <div align="center">
+          <br>
             <h3>Contact Me!</h3>
                 <p>
                     <a href="https://www.linkedin.com/in/izaanq/" target="blank">
