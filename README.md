@@ -50,7 +50,7 @@
     <br>
     <br>
       <br>
-      <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif?raw=true" height="170" alt="dev gif" />
+      <img src="https://github.com/IzaanQaiser/IzaanQaiser/blob/drafting/car.gif?raw=true" height="200" alt="dev gif" />
         <div align="center">
           <br>
             <h3>Contact Me:</h3>
