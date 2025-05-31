@@ -9,7 +9,6 @@
   <tr>
     <td style="vertical-align: top; border: none;">
       <div style="text-align: left;">
-        <br>
         <h3>What I Do:</h3>
         <ul>
           <li><strong>[DEGREE]:</strong> Computer Engineering Student at The University of Waterloo (Grad. Apr 2028)</li>
