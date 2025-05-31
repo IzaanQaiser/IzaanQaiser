@@ -11,7 +11,7 @@
       <div style="text-align: left;">
         <h3>What I Do:</h3>
         <ul>
-          <li><strong>[DEGREE]:</strong> BASc. in Computer Engineering at The University of Waterloo (Grad. Apr 2028)</li>
+          <li><strong>[DEGREE]:</strong> Computer Engineering Student at The University of Waterloo (Grad. Apr 2028)</li>
           <li><s><strong>[INTERNSHIP]:</strong> Data Analyst at The University of Waterloo (Jan. 2024 – Apr. 2024)</s></li>
           <li><s><strong>[INTERNSHIP]:</strong> Data Engineer at Definity (Sept. 2024 – Dec. 2024)</s></li>
           <li><strong>[INTERNSHIP]:</strong> Full-Stack Developer at Virtek Vision (May 2025 – Aug. 2025)</li>
