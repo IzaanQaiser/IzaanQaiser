@@ -15,7 +15,7 @@
           <li><s><strong>[INTERNSHIP]:</strong> Data Analyst at The University of Waterloo (Jan. 2024 – Apr. 2024)</s></li>
           <li><s><strong>[INTERNSHIP]:</strong> Data Engineer at Definity (Sept. 2024 – Dec. 2024)</s></li>
           <li><strong>[INTERNSHIP]:</strong> Full-Stack Developer at Virtek Vision (May 2025 – Aug. 2025)</li>
-          <li><strong>[PROJECT]:</strong> Currently building <a href="https://github.com/IzaanQaiser/DumpBot">DumpBot</a></li>
+          <li><strong>[PROJECT]:</strong> Currently building <a href="[https://github.com/IzaanQaiser/DumpBot](https://github.com/IzaanQaiser/thinkback-ai-google-adk-hackathon)">thinkback.ai</a></li>
         </ul>
       </div>
 
