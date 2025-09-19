@@ -23,8 +23,7 @@
 
 ### 🛠️ my tools  
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,python,next,express,nodejs" />
-<img src="https://skillicons.dev/icons?i=npm,html,css,c,cpp,cs,git,pip" /><br/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,python,next,express,nodejs,npm,html,css,c,cpp,cs,git,pip" />
 
 </div>
 
