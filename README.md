@@ -35,8 +35,8 @@
 ### 🌐 Connect With Me  
 
 <a href="mailto:izaans.email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://linkedin.com/in/izaanqaiser"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/YOUR_HANDLE"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://x.com/YOUR_HANDLE"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://www.linkedin.com/in/izaanq/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.instagram.com/izaan.qaiser/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://x.com/1zaanq"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 
 </div>
