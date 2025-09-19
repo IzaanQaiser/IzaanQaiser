@@ -1,19 +1,19 @@
-<h1 align="center">Hi there 👋, I'm Izaan</h1>
+<h1 align="center">hey 👋, i'm izaan</h1>
 
 <div align="center">
-  <b>Computer Engineering @ University of Waterloo (Grad. Apr 2028)</b><br/>
-  Full-Stack Developer • Builder of <a href="https://thinkbackai.ca">thinkback</a> & <a href="https://izaanqaiser.github.io/speed-threads/">speedthreads</a> • <a href="https://izaanqaiser.github.io/personal-website/">Website</a>
+  <b>computer engineering @ university of waterloo (grad. apr 2028)</b><br/>
+  full-stack developer • builder of <a href="https://thinkbackai.ca">thinkback</a> & <a href="https://izaanqaiser.github.io/speed-threads/">speedthreads</a> • <a href="https://izaanqaiser.github.io/personal-website/">Website</a>
 </div>
 
 ---
 
 <div align="center">
 
-### 🚀 What I Do  
+### 🚀 what i do  
 
-🖥️ Learning **Systems Programming in C**  
-🧵 Posting daily on <a href="https://x.com/1zaanq">X</a>  
-📌 Looking for **Winter 2026 Internships**  
+🖥️ learning **systems programming in C**  
+🧵 posting daily on <a href="https://x.com/1zaanq">X</a>  
+📌 looking for **qinter 2026 internships**  
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### 🛠️ My Tools  
+### 🛠️ my tools  
 
 <img src="https://skillicons.dev/icons?i=react,js,ts,python,next,express,nodejs" />
 <img src="https://skillicons.dev/icons?i=npm,html,css,c,cpp,cs,git,pip" /><br/>
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-### 🌐 Connect With Me  
+### 🌐 connect with me  
 
 <a href="mailto:izaans.email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/izaanq/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
