@@ -11,9 +11,9 @@
 
 ### 🚀 What I Do  
 
-🎓 Computer Engineering Student @ University of Waterloo (Grad. 2028)  
-💻 Full-Stack Developer @ Virtek Vision (May 2025 – Aug. 2025)  
-🔨 Currently building: <a href="https://thinkbackai.ca">Thinkback</a>  
+🖥️ Learning **Systems Programming in C**  
+🐦 Posting daily on <a href="https://x.com/1zaanq">X</a>  
+📌 Looking for **Winter 2026 Internships**  
 
 </div>
 
