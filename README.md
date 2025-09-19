@@ -38,7 +38,9 @@
 <a href="https://www.linkedin.com/in/izaanq/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://www.instagram.com/izaan.qaiser/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://x.com/1zaanq"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://izaanqaiser.github.io/personal-website/"><img src="https://skillicons.dev/icons?i=wordpress" /></a>
+<a href="https://izaanqaiser.github.io/personal-website/">
+  <img height="48" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetarchive.svg" />
+</a>
 
 </div>
 
