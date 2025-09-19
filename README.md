@@ -12,7 +12,7 @@
 ### 🚀 What I Do  
 
 🖥️ Learning **Systems Programming in C**  
-🐦 Posting daily on <a href="https://x.com/1zaanq">X</a>  
+🧵 Posting daily on <a href="https://x.com/1zaanq">X</a>  
 📌 Looking for **Winter 2026 Internships**  
 
 </div>
@@ -23,9 +23,8 @@
 
 ### 🛠️ My Tools  
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,python,next,express,nodejs,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs" /><br/>
-<img src="https://skillicons.dev/icons?i=npm,git,pip" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,python,next,express,nodejs,npm" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,c,cpp,cs,git,pip" /><br/>
 
 </div>
 
