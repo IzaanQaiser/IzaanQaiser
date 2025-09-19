@@ -2,7 +2,7 @@
 
 <div align="center">
   <b>Computer Engineering @ University of Waterloo (Grad. Apr 2028)</b><br/>
-  Full-Stack Developer • Builder of <a href="https://thinkbackai.ca">Thinkback</a>
+  Full-Stack Developer • Builder of <a href="https://thinkbackai.ca">thinkback</a> & <a href="https://izaanqaiser.github.io/speed-threads/">speedthreads</a>
 </div>
 
 ---
