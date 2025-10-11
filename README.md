@@ -12,7 +12,7 @@
 ### 🚀 what i do  
 
 🖥️ learning **systems programming in C**  
-🧵 posting daily on <a href="https://x.com/1zaanq">X</a>  
+🧵 trying to get active on <a href="https://x.com/1zaanq">X</a>  
 📌 looking for **winter 2026 internships**  
 
 </div>
