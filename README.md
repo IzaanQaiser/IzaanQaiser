@@ -13,7 +13,7 @@
 
 🖥️ learning **systems programming in C**  
 🧵 trying to get active on <a href="https://x.com/1zaanq">X</a>  
-📌 looking for **winter 2026 internships**  
+📌 looking for **summer 2026 internships**  
 
 </div>
 
