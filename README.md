@@ -8,7 +8,7 @@ I build software systems, data infrastructure, and AI-powered products.
 
 - **[Thinkback](https://github.com/IzaanQaiser/thinkback-ai)** — AI-powered system for saving, understanding, and recalling online content.
 - **[Speedthreads](https://github.com/IzaanQaiser/speed-threads)** — Browser extension for querying and summarizing social media threads with LLMs.
-- **[Pada Guidance](LINK)** — Lane-level road intelligence and hazard navigation platform.
+- **[Pada Guidance](https://padaguidance.com/)** — Lane-level road intelligence and hazard navigation platform.
 
 ### Currently
 
