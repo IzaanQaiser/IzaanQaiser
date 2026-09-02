@@ -1,43 +1,20 @@
-<h1 align="center">hey 👋, i'm izaan</h1>
+# Izaan Qaiser
 
-<div align="center">
-  <b>computer engineering @ university of waterloo (grad. apr 2028)</b><br/>
-  full-stack developer • builder of <a href="https://thinkbackai.ca">thinkback</a> & <a href="https://izaanqaiser.github.io/speed-threads/">speedthreads</a> • <a href="https://izaanqaiser.github.io/personal-website/">Website</a>
-</div>
+Computer Engineering @ University of Waterloo.
 
----
+I build software systems, data infrastructure, and AI-powered products.
 
-<div align="center">
+### Selected work
 
-### 🚀 what i do  
+- **[Thinkback](https://github.com/IzaanQaiser/thinkback-ai)** — AI-powered system for saving, understanding, and recalling online content.
+- **[Speedthreads](https://github.com/IzaanQaiser/speed-threads)** — Browser extension for querying and summarizing social media threads with LLMs.
+- **[Pada Guidance](LINK)** — Lane-level road intelligence and hazard navigation platform.
 
-🖥️ learning **systems programming in C**  
-🧵 trying to get active on <a href="https://x.com/1zaanq">X</a>  
-📌 looking for **summer 2026 internships**  
+### Currently
 
-</div>
+- Exploring agentic systems, data infrastructure, and systems engineering
+- Building things with Python, TypeScript, React, FastAPI, and PostgreSQL
 
----
+### Links
 
-<div align="center">
-
-### 🛠️ my tools  
-
-<img src="https://skillicons.dev/icons?i=react,js,ts,python,next,express,nodejs,npm,html,css,c,cpp,cs,git,pip" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 connect with me  
-
-<a href="mailto:izaans.email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/izaanq/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://www.instagram.com/izaan.qaiser/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-<a href="https://x.com/1zaanq"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-
-</div>
-
-</div>
+[Website](https://izaanqaiser.github.io/personal-website/) · [LinkedIn](https://www.linkedin.com/in/izaanq/) · [Email](mailto:i2qaiser@uwaterloo.ca)
